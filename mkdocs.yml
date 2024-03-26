@@ -1,0 +1,30 @@
+site_name: Star Docs
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: 'blue grey'
+      accent: 'amber'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.tooltips
+    - navigation.instant
+    - palette.switcher
+    - palette.toggle
+
+plugins:
+  - search
+  - glightbox
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
