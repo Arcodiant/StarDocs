@@ -20,6 +20,9 @@ jobs:
   steps:
   - checkout: self
     submodules: true
+  - bash: |
+        pip install -r requirements.txt
+        mkdocs build
   - task: AzureStaticWebApp@0
     inputs:
       azure_static_web_apps_api_token: $(AZURE_STATIC_WEB_APPS_API_TOKEN_GENTLE_TREE_0A8EA4F10)
