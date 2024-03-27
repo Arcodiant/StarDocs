@@ -2,7 +2,7 @@
 
 ## What this site is for
 
-!!! example inline end "E.g."
+!!! example inline end "e.g."
     
     - [How do I load ground vehicles onto my ship?](./ships/loading-ground-vehicles.md)
     - [How do I find the spaceport at each city?](./navigation/find-spaceport.md)
@@ -22,7 +22,7 @@
 
 ## What this site is *not* for
 
-!!! example inline end "E.g."
+!!! example inline end "e.g."
     
     - What is the fastest way to make money?
     - What is the best fighter for PvP?
@@ -40,11 +40,13 @@
 
 - Comprehensive item, location or ship information
 
-    If you're looking for that information, we recommend checking out:
+    !!! info "Other sites"
 
-    - [Cornerstone Universal Item Finder](https://finder.cstone.space/)
-    - [Star Citizen Wiki](https://starcitizen.tools/)
-    - [UEX Corp](https://uexcorp.space/)
-    - [VerseGuide](https://verseguide.com/)
-    - [Erkul.games](https://www.erkul.games/)
-    - [SCUnpacked](https://scunpacked.com/)
+        If you're looking for that information, we recommend checking out:
+
+        - [Cornerstone Universal Item Finder](https://finder.cstone.space/)
+        - [Star Citizen Wiki](https://starcitizen.tools/)
+        - [UEX Corp](https://uexcorp.space/)
+        - [VerseGuide](https://verseguide.com/)
+        - [Erkul.games](https://www.erkul.games/)
+        - [SCUnpacked](https://scunpacked.com/)
