@@ -2,15 +2,12 @@
 
 ## What this site is for
 
-!!! example inline end "e.g."
+- Guides for common tasks in the game that are not well documented
+
+!!! example "e.g."
     
     - [How do I load ground vehicles onto my ship?](./ships/loading-ground-vehicles.md)
     - [How do I find the spaceport at each city?](./navigation/find-spaceport.md)
-
-- Guides for common tasks in the game that are not well documented
-
-<br/>
-<br/>
 
 - Information for players new & old
 
@@ -22,17 +19,13 @@
 
 ## What this site is *not* for
 
-!!! example inline end "e.g."
+- Subjective information, opinions or current meta.
+
+!!! example "e.g."
     
     - What is the fastest way to make money?
     - What is the best fighter for PvP?
     - What starter ship should I buy?
-
-- Subjective information, opinions or current meta.
-
-<br/>
-<br/>
-<br/>
 
 - Over-detailed descriptions or long preambles
 
