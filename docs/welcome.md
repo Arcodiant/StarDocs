@@ -6,8 +6,8 @@
 
 !!! example "e.g."
     
-    - [How do I load ground vehicles onto my ship?](./ships/loading-ground-vehicles.md)
-    - [How do I find the spaceport at each city?](./navigation/find-spaceport.md)
+    - [How do I load ground vehicles onto my ship?](./topics/ships/loading-ground-vehicles.md)
+    - [How do I find the spaceport at each city?](./topics/navigation/find-spaceport.md)
 
 - Information for players new & old
 
