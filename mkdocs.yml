@@ -1,4 +1,5 @@
 site_name: Star Docs
+site_url: https://docs.sc
 
 theme:
   name: material
