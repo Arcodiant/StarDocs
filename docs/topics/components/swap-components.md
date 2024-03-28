@@ -21,7 +21,7 @@ There are two ways to install new weapons & components on your ship, depending o
 
 1. Make sure your ship is [stored](../ships/storing-ships.md) at your current location, and the weapons/components to upgrade are in the local inventory (not on the ship).
 
-2. Open your Mobiglass (`F1`), and click the second icon to open the Vehicle Loadout Manager.
+2. Open your Mobiglass (++f1++), and click the second icon to open the Vehicle Loadout Manager.
 
     ![Vehicle Loadout Manager](./images/swap-components-mobiglass-1.jpg){ width="450" }
 
@@ -59,21 +59,23 @@ There are two ways to install new weapons & components on your ship, depending o
 
     > ***Note:*** You typically can't use tractor beams in an armistice area, but this restriction is lifted in hangars and on landing pads.
 
-2. Sit in the pilot seat and Unlock Ports (`R Alt + K`). If you are modifying a vital component (e.g. a cooler or power plant) be sure to power off (`U`) your ship to avoid damage.
+2. Sit in the pilot seat and Unlock Ports (++ralt+k++). If you are modifying a vital component (e.g. a cooler or power plant) be sure to power off (++u++) your ship to avoid damage.
 
-3. Find the component slot on your ship, equip your tractor beam and switch it Detach (`B`).
+3. Find the component slot on your ship, equip your tractor beam and switch it Detaching/Detachment (++b++).
 
 4. If there is already a component in the slot, detach it with the tractor beam:
-    - Point the tool at the component & enable the beam (`Left Mouse Button`).
+    - Point the tool at the component & enable the beam (++"LMB"++).
     - Pull the component in the direction indicated by the arrow until it comes loose.
 
 5. Pick up the new component with the tractor beam and move it close to the slot; a green or yellow silhouette will appear.
     - If the silhouette is green, the component is correctly aligned; release the tractor beam and it will slot into place.
-    - If the silhouette is yellow, the component is not lined up with the slot; rotate it (hold `R` and move the mouse) until the silhouette turns green.
+    - If the silhouette is yellow, the component is not lined up with the slot; rotate it (hold ++r++ and move the mouse) until the silhouette turns green.
 
-6. Sit in the pilot seat and Lock Ports (`R Alt + K`)
+6. Sit in the pilot seat and Lock Ports (++ralt+k++)
 
 7. The component is now installed.
+
+!!! info "You may need to cycle power (++u++ x2) on your ship to enable new components"
 
 ??? tip "Insurance"
 
