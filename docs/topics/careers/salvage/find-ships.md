@@ -1,5 +1,8 @@
 # How do I find ships to salvage?
 
+!!! success inline end "Last Updated"
+    Alpha 3.22.1
+
 ## Info
 
 Any ship - player, NPC or otherwise - is a valid target for salvaging. It's
