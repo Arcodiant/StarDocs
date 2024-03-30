@@ -1,1 +1,38 @@
 # How do I change my MFDs?
+
+!!! success inline end "Last Updated"
+    Alpha 3.22.1
+
+## Info
+
+Ships & ground vehicles include one or more MFDs (Multi-Function Displays) attached to their flight seats, which are customisable displays that provide data readouts and control over various ship systems. While there is a default configuration for each ship, players can change the screen displayed on each MFD to access more functionality, or simply customise their flight experience.
+
+## Changing MFDs
+
+1. Make sure the ship is powered up (++ralt+r++ while sitting in the pilot seat), then sit in any flight seat, crew station or manual turret with MFDs.
+
+2. If the seat is not the main pilot seat, you may have to power it on separately - hold ++f++ and look around the controls for a Power On option.
+
+3. When the MFDs are showing, hold F and move the mouse till you are facing the MFD you want to change.
+
+    ![Facing MFD](./images/configure-mfds-facing.jpg){width=450}
+
+4. Zoom in on the screen (++"MMB"++).
+
+    ![Zoomed in MFD](./images/configure-mfds-zoomed.jpg){width=450}
+
+5. Click the Menu button in the top left of the MFD.
+
+    ![MFD Menu](./images/configure-mfds-menu.jpg){width=450}
+
+6. Click the screen that you want to display. You may need to scroll (++"Scroll Wheel"++) to see all available options.
+
+7. The selected screen is now visible and interactable on the MFD.
+
+    ![New MFD screen](./images/configure-mfds-complete.jpg){width=450}
+
+??? tip "MFD Screen Tabs"
+
+    Some screens will have multiple tabs to show more detailed information; for example, the Weapons screen includes Guns & Missile tabs with additional controls for those weapon types. Simply click the tabs directly under the Menu button to switch between them.
+
+    ![MFD Tabs](./images/configure-mfds-tabs.jpg){width=450}
