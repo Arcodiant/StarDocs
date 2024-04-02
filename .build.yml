@@ -10,9 +10,20 @@ trigger:
       - main
 
 jobs:
+- job: build_for_pr
+  displayName: Test Build for PR
+  condition: eq(variables['Build.Reason'], 'PullRequest')
+  pool:
+    vmImage: ubuntu-latest
+  steps:
+  - checkout: self
+    submodules: true
+  - bash: |
+        pip install -r requirements.txt
+        mkdocs build
 - job: build_and_deploy_job
   displayName: Build and Deploy Job
-  condition: or(eq(variables['Build.Reason'], 'Manual'),or(eq(variables['Build.Reason'], 'PullRequest'),eq(variables['Build.Reason'], 'IndividualCI')))
+  condition: or(eq(variables['Build.Reason'], 'Manual'),eq(variables['Build.Reason'], 'IndividualCI'))
   pool:
     vmImage: ubuntu-latest
   variables:
