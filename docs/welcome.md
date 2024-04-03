@@ -36,7 +36,9 @@ players enjoy the game!
 
 - Tips and advice to avoid common pitfalls and find shortcuts
 
-## What this site is *not* intended for
+## Other useful sites
+
+If you're looking other info, such as:
 
 - Subjective information, opinions or current meta.
 
@@ -48,13 +50,11 @@ players enjoy the game!
 
 - Comprehensive item, location or ship information
 
-    !!! info "Other sites"
+You may find these sites helpful:
 
-        If you're looking for that information, we recommend checking out:
-
-        - [Cornerstone Universal Item Finder](https://finder.cstone.space/)
-        - [Star Citizen Wiki](https://starcitizen.tools/)
-        - [UEX Corp](https://uexcorp.space/)
-        - [VerseGuide](https://verseguide.com/)
-        - [Erkul.games](https://www.erkul.games/)
-        - [SCUnpacked](https://scunpacked.com/)
+- [Cornerstone Universal Item Finder](https://finder.cstone.space/)
+- [Star Citizen Wiki](https://starcitizen.tools/)
+- [UEX Corp](https://uexcorp.space/)
+- [VerseGuide](https://verseguide.com/)
+- [Erkul.games](https://www.erkul.games/)
+- [SCUnpacked](https://scunpacked.com/)
