@@ -52,4 +52,4 @@ Contacting ATC when you are close to your destination will assign you a dedicate
 
 !!! attention "Cancelling Permission"
 
-    Flying a distance away from 
+    Flying a distance away from the landing area, or contacting ATC more than once can cancel your landing permission, so be careful of accidentally pressing the keybind more than once and having the hangar doors close on you.
