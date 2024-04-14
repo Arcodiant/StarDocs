@@ -5,9 +5,14 @@
 
 ## Info
 
-There are several types of upgrades you can buy for your vehicles and each may be sold at a different type of store. Additionally, for broad categories like ship weapons or systems, each store will only have a selection of the upgrades that exist, and you may need to shop around to find the best equipment.
+There are several types of upgrades you can buy for your vehicles and each may
+be sold at a different type of store. Additionally, for broad categories like
+ship weapons or systems, each store will only have a selection of the upgrades
+that exist, and you may need to shop around to find the best equipment.
 
-Below is a general guide to where you can purchase different categories; specific information about which locations stock which components, plus pricing, can be found at [Erkul.games](https://erkul.games)
+Below is a general guide to where you can purchase different categories;
+specific information about which locations stock which components, plus pricing,
+can be found at [Erkul.games](https://erkul.games)
 
 ## General Components
 

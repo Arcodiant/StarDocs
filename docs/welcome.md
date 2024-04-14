@@ -1,4 +1,4 @@
-# Welcome to Star Docs!
+# Welcome to Star Docs
 
 Hi! I'm WhiskoTangey, and I'm a volunteer guide for the game Star Citizen. This
 site was created after I found myself answering a lot of the same questions
@@ -28,7 +28,7 @@ players enjoy the game!
 - Guides for common tasks in the game that are not well documented
 
 !!! example "e.g."
-    
+
     - [How do I load ground vehicles onto my ship?](./topics/ships/loading-ground-vehicles.md)
     - [How do I find the spaceport at each city?](./topics/navigation/find-spaceport.md)
 
@@ -43,7 +43,7 @@ If you're looking other info, such as:
 - Subjective information, opinions or current meta.
 
 !!! example "e.g."
-    
+
     - What is the fastest way to make money?
     - What is the best fighter for PvP?
     - When will feature *XYZ* be available?

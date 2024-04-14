@@ -16,7 +16,7 @@ attachment.
 > ***Note:*** The MaxLift Tractor Beam rifle is a complete unit, but the
 > pistol version is two parts; a Pyro Multitool, plus a TruHold Tractor
 > Attachment.
-
+>
 > Once you have both parts, equip the multitool (++4++), customize (++j++)
 > and select the tractor attachment.
 
