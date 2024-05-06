@@ -55,7 +55,7 @@ Bay pads:
             snub fighters and shuttles, and they will often fit inside the same
             cargo spaces as medium-to-large ground vehicles.
 
-1.
+1. Land your ship and access the terminal area
 
     === "Ground Stations"
 

@@ -10,13 +10,11 @@ the hangar doors remain closed so that you can prepare your ship, load cargo
 etc. without interference from other players. Once you are ready to leave, you
 will need to signal ATC for launch permission.
 
-!!! tip "If you are on an open pad (such as when retrieving ground vehicles
-from a Platinum Bay location) you can freely drive off the pad without
-contacting ATC."
+<!-- markdownlint-disable-next-line MD013 -->
+!!! note "If you are on an open pad (such as when retrieving ground vehicles from a Platinum Bay location) you can freely drive off the pad without contacting ATC."
 
-!!! info "You are generally only able to request launch permission for a ship
-that you own; if you are loaning a ship from another player or party member,
-it is easiest to have them request launch permission then swap seats."
+<!-- markdownlint-disable-next-line MD013 -->
+!!! info "You are generally only able to request launch permission for a ship that you own; if you are loaning a ship from another player or party member, it is easiest to have them request launch permission then swap seats."
 
 ## Request Launch Permission
 
