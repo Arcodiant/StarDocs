@@ -1,7 +1,8 @@
-# How do I upgrade or modify my ship?
+---
+title: How do I upgrade or modify my ship?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 
@@ -34,11 +35,11 @@ on if they are [in your inventory](#using-your-mobiglass) or
 location, and the weapons/components to upgrade are in the local inventory (not
 on the ship).
 
-2. Open your Mobiglass (++f1++), and click the second icon to open the Vehicle
+2. Open your Mobiglass (++f1++), and click the last icon to open the Vehicle
 Loadout Manager.
 
     ![Vehicle Loadout Manager](
-        ./images/swap-components-mobiglass-1.jpg){ width="450" }
+        ./images/swap-components-mobiglass-1.jpg){ width=600 }
 
 3. Select the ship to modify from the dropdown in the top right.
 
@@ -46,30 +47,31 @@ Loadout Manager.
     but only ships that are stored in your current location will be selectable.
 
     ![Vehicle Loadout Manager](
-        ./images/swap-components-mobiglass-2.jpg){ width="450" }
+        ./images/swap-components-mobiglass-2.jpg){ width=600 }
 
 4. Click the component to modify; different component slots are listed on
 different tabs, such a Systems or Weapons.
 
     ![Vehicle Loadout Manager](
-        ./images/swap-components-mobiglass-3.jpg){ width="450" }
+        ./images/swap-components-mobiglass-3.jpg){ width=600 }
 
 5. A list of compatible components are shown, with a number of available
 components (unused, in inventory) and in-use (installed on this or other ships
 stored at this location).
 
     ![Vehicle Loadout Manager](
-        ./images/swap-components-mobiglass-4.jpg){ width="450" }
+        ./images/swap-components-mobiglass-4.jpg){ width=600 }
 
 6. Click the component you want to install; it will be shown in the slot.
 
     ![Vehicle Loadout Manager](
-        ./images/swap-components-mobiglass-5.jpg){ width="450" }
+        ./images/swap-components-mobiglass-5.jpg){ width=600 }
 
 7. Click Save and Equip and your new component is installed.
 
-    > ***Note:*** If you are changing multiple components, try to save after
-    changing 3-5 components to avoid any modifications being missed.
+    > ***Note:*** If you are changing multiple components, try not to change
+    more than 3-5 components before saving, to avoid any modifications being
+    missed.
 
 ??? tip "Insurance"
 
@@ -80,8 +82,8 @@ stored at this location).
 
 ## Using a tractor beam
 
-!!! failure "Not all components can be modified with the tractor beam; e.g. Size
-3 components are too large, and missile racks are fixed in place"
+<!-- markdownlint-disable-next-line MD013 -->
+!!! failure "Not all components can be modified with the tractor beam; e.g. Size 3 components are too large, and missile racks are fixed in place"
 
 1. Move your ship and the physicalised component to a safe location where you
 can use a [tractor tool](../fps/equipment/tractor-beam.md).
@@ -93,8 +95,8 @@ can use a [tractor tool](../fps/equipment/tractor-beam.md).
 vital component (e.g. a cooler or power plant) be sure to power off (++u++) your
 ship to avoid damage.
 
-3. Find the component slot on your ship, equip your tractor beam and switch it
-Detaching/Detachment (++b++).
+3. Find the component slot on your ship, equip your tractor beam (++5++) and
+switch it to Detaching/Detachment (++b++).
 
 4. If there is already a component in the slot, detach it with the tractor beam:
     - Point the tool at the component & enable the beam (++"LMB"++).
@@ -102,22 +104,24 @@ Detaching/Detachment (++b++).
     loose.
 
 5. Pick up the new component with the tractor beam and move it close to the
-slot; a green or yellow silhouette will appear.
+slot; a silhouette of the component will appear.
     - If the silhouette is green, the component is correctly aligned; release
     the tractor beam and it will slot into place.
     - If the silhouette is yellow, the component is not lined up with the slot;
     rotate it (hold ++r++ and move the mouse) until the silhouette turns green.
+    - If the silhouette is red, the component is not compatible with this slot -
+    most likely it is the wrong size.
 
 6. Sit in the pilot seat and Lock Ports (++ralt+k++)
 
 7. The component is now installed.
 
-!!! info "You may need to cycle power (++u++ x2) on your ship to enable new
-components"
+<!-- markdownlint-disable-next-line MD013 -->
+!!! info "You may need to cycle power (++u++ x2) on your ship to enable new components"
 
 ??? tip "Insurance"
 
     Components installed with a tractor beam are not insured until you next
-    [store your ship](../ships/storing-ships.md). Once stored, if you claim a
+    [store your ship](../ships/storing-ships.md). Once insured, if you claim a
     replacement for your ship in future, it will include any components that you
     installed at no extra cost.

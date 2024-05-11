@@ -1,7 +1,8 @@
-# Where can I buy upgrades?
+---
+title: Where can I buy upgrades?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 

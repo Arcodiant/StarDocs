@@ -1,7 +1,8 @@
-# Where can I get a tractor beam tool?
+---
+title: Where can I get a tractor beam tool?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 
@@ -15,10 +16,8 @@ attachment.
 
 > ***Note:*** The MaxLift Tractor Beam rifle is a complete unit, but the
 > pistol version is two parts; a Pyro Multitool, plus a TruHold Tractor
-> Attachment.
->
-> Once you have both parts, equip the multitool (++4++), customize (++j++)
-> and select the tractor attachment.
+> Attachment. Once you have both parts, you must
+> [equip the tractor attachment](./equip-attachments.md) to use it.
 
 ## Buying
 

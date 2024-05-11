@@ -1,7 +1,8 @@
-# How do I find the spaceport at each city?
+---
+title: How do I find the spaceport at each city?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 

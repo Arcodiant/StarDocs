@@ -1,4 +1,8 @@
-# Welcome to Star Docs
+---
+title: Welcome to Star Docs
+---
+
+![WhiskoTangey](./images/welcome/whisko-wave.jpg){width=300 align=right}
 
 Hi! I'm WhiskoTangey, and I'm a volunteer guide for the game Star Citizen. This
 site was created after I found myself answering a lot of the same questions
@@ -18,6 +22,11 @@ feel free to submit a suggestion on the
 [public repo](https://github.com/Arcodiant/StarDocs) - or even submit your own
 contributions!
 
+Also, you're always welcome to reach out to
+[me](https://robertsspaceindustries.com/citizens/WhiskoTangey) in game if you
+ever need help, or find one of the many helpful player volunteer guides at
+[The Guide Hub](https://robertsspaceindustries.com/spectrum/guide).
+
 ***Note:*** I have no official association with Cloud Imperium Games and
 nothing on this site is officially approved by or representative of the views
 of that company or their employees. I'm just doing this to try and help other
@@ -30,7 +39,7 @@ players enjoy the game!
 !!! example "e.g."
 
     - [How do I load ground vehicles onto my ship?](./topics/ships/loading-ground-vehicles.md)
-    - [How do I find the spaceport at each city?](./topics/navigation/find-spaceport.md)
+    - [How to I equip attachments to my weapons/tools?](./topics/fps/equipment/equip-attachments.md)
 
 - Direct, concise and complete instructions
 

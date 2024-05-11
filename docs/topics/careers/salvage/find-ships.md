@@ -1,7 +1,8 @@
-# How do I find ships to salvage?
+---
+title: How do I find ships to salvage?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 
@@ -15,12 +16,12 @@ find valid salvage opportunities.
 The most predictable and reliable method is to select a Salvage mission from the
 Contract manager.
 
-1. Open your Mobiglass (++f1++), select the Contract Manager then browse to
-General > Salvage.
+1. Open your Mobiglass (++f1++), select the Contract Manager then expand the
+Salvage list
 
-    ![Salvage Contract](./images/salvage-contract.jpg){width=450}
+    ![Salvage Contract](./images/salvage-contract.jpg){width=600}
 
-    > ***Note:*** There are also Salvage missions available under the Personal
+    > ***Note:*** There are also Salvage missions available under the Unverified
     tab; these will have higher rewards or lower fees, but come with additional
     risk and may cause you to gain a CrimeStat.
 
@@ -33,8 +34,8 @@ claim (for travel time) and the type of ship - e.g. you might choose a military
 ship to loot the weapons, or a bulk hauler to get a better chance of valuable
 cargo.
 
-    !!! tip "Initially you will only have access to 3-4 claims, and for small
-    ships - completing salvage missions will unlock more & larger claims."
+    <!-- markdownlint-disable-next-line MD013 -->
+    !!! tip "Initially you will only have access to 3-4 claims, and for small ships - completing salvage missions will unlock more & larger claims."
 
 4. Click the "Fee: *xxx*" button to pay the claim fee and receive the ship
 location.

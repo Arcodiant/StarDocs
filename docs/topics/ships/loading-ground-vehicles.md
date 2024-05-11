@@ -1,7 +1,8 @@
-# How do I load ground vehicles onto my ship?
+---
+title: How do I load ground vehicles onto my ship?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 
@@ -14,12 +15,12 @@ than the garages or pad for ground vehicles. Some cities have dedicated
 facilities for storing and retrieving ground vehicles, while Platinum Bay
 operate a series of vehicle pads at ground stations around the system.
 
-!!! info "Changes coming in 3.23"
+!!! info "Changes coming in 3.23.*x*"
 
-    The Personal Hangars that are coming in 3.23 will make the process of
-    calling & loading vehicles much easier, as you will be able to retrieve the
-    ground vehicle, then retrieve the carrier into the same hangar. This guide
-    explains the process as of patch 3.22.
+    The Personal Hangars that are coming in a future 3.23.*x* patch will make
+    the process of calling & loading vehicles much easier, as you will be able
+    to retrieve the ground vehicle, then retrieve the carrier into the same
+    hangar. This guide explains the process as of patch Alpha 3.23.0.
 
 You'll need to own or rent a ground vehicle, and own or rent a ship large
 enough to carry it. You can check the
@@ -63,12 +64,12 @@ Bay pads:
         ground, though landing on a dedicated ship pad will give you a flat
         surface and enable you to use a tractor beam.
 
-            ![Platinum Bay Landed Ship](./images/loading-ground-vehicles-landed.jpg){width=450}
+            ![Platinum Bay Landed Ship](./images/loading-ground-vehicles-landed.jpg){width=600}
 
         - Exit your ship and walk to the Platinum Bay building, which is marked
         with blue lights on a large antenna/spire.
 
-            ![Platinum Bay](./images/loading-ground-vehicles-pb.jpg){width=450}
+            ![Platinum Bay](./images/loading-ground-vehicles-pb.jpg){width=600}
 
             !!! warning "Don't block the pads in your ship"
 

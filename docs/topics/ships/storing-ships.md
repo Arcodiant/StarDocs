@@ -1,7 +1,8 @@
-# How do I store my ship?
+---
+title: How do I store my ship?
+---
 
-!!! success inline end "Last Updated"
-    Alpha 3.22.1
+{{version_check("3.23.0")}}
 
 ## Info
 
@@ -26,7 +27,7 @@ paints or new upgrades.
 1. Park your vehicle at a hangar, landing pad or docking port that has been
 issued to you by [ATC](./landing-atc.md).
 
-    ![Landed at a hangar](./images/storing-landed.jpg){width=450}
+    ![Landed at a hangar](./images/storing-landed.jpg){width=600}
 
     > ***Note:*** All space stations have 4 open landing pads that do not
     require permission from ATC to land at; these cannot be used for storing
@@ -35,7 +36,7 @@ issued to you by [ATC](./landing-atc.md).
 
 2. Make sure that you ship is fully powered down (++u++).
 
-    ![Powered down](./images/storing-power-down.jpg){width=450}
+    ![Powered down](./images/storing-power-down.jpg){width=600}
 
 3. Take the elevator from the hangar/pad/port to the Lobby.
 
@@ -44,13 +45,13 @@ issued to you by [ATC](./landing-atc.md).
 
 4. Use an ASOP terminal and find your ship in the list.
 
-    ![ASOP Terminal](./images/storing-asop.jpg){width=450}
+    ![ASOP Terminal](./images/storing-asop.jpg){width=600}
 
 5. If parked in the correct location, the terminal will show the name and a
 Store option.
 
-    ![ASOP Selecting ship](./images/storing-select.jpg){width=450}
+    ![ASOP Selecting ship](./images/storing-select.jpg){width=600}
 
 6. Click Store and wait until the screen shows Stored.
 
-    ![ASOP Ship stored](./images/storing-stored.jpg){width=450}
+    ![ASOP Ship stored](./images/storing-stored.jpg){width=600}
