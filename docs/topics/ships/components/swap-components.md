@@ -2,7 +2,7 @@
 title: How do I upgrade or modify my ship?
 ---
 
-{{version_check("3.23.0")}}
+{{version_check("3.23.1")}}
 
 ## Info
 
@@ -31,7 +31,7 @@ on if they are [in your inventory](#using-your-mobiglass) or
 
 !!! failure "Rented ships cannot be modified using the Mobiglass"
 
-1. Make sure your ship is [stored](../ships/storing-ships.md) at your current
+1. Make sure your ship is [stored](../storing-ships.md) at your current
 location, and the weapons/components to upgrade are in the local inventory (not
 on the ship).
 
@@ -86,7 +86,7 @@ stored at this location).
 !!! failure "Not all components can be modified with the tractor beam; e.g. Size 3 components are too large, and missile racks are fixed in place"
 
 1. Move your ship and the physicalised component to a safe location where you
-can use a [tractor tool](../fps/equipment/tractor-beam.md).
+can use a [tractor tool](../../fps/equipment/tractor-beam.md).
 
     > ***Note:*** You typically can't use tractor beams in an armistice area,
     but this restriction is lifted in hangars and on landing pads.
@@ -122,6 +122,6 @@ slot; a silhouette of the component will appear.
 ??? tip "Insurance"
 
     Components installed with a tractor beam are not insured until you next
-    [store your ship](../ships/storing-ships.md). Once insured, if you claim a
+    [store your ship](../storing-ships.md). Once insured, if you claim a
     replacement for your ship in future, it will include any components that you
     installed at no extra cost.

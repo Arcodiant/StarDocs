@@ -2,7 +2,7 @@
 title: How do I remove components from ships I find?
 ---
 
-{{version_check("3.23.0")}}
+{{version_check("3.23.1")}}
 
 ## Info
 
@@ -23,10 +23,10 @@ This includes ships that you destroy as part of Bounties or other missions!
     Additionally, ship designs that have been in the game for a longer time may
     not have their internal components made accessible yet.
 
-1. You will need a [ship or shipwreck](../careers/salvage/find-ships.md) to
-remove the components from, and a
-[tractor beam](../fps/equipment/tractor-beam.md). If possible, move the ship to
-a safe location where you can use a tractor beam.
+1. You will need a
+[ship or shipwreck](../../careers/industrial/salvage/find-ships.md) to remove the
+components from, and a [tractor beam](../../fps/equipment/tractor-beam.md). If
+possible, move the ship to a safe location where you can use a tractor beam.
 
     > ***Note:*** You typically can't use tractor beams in an armistice area,
     but this restriction is lifted in hangars and on landing pads.
@@ -64,5 +64,5 @@ sell, or attached to an empty slot on another ship.
     ship weapons at Ship Weapon Stores or Centermass, power plants at Platinum
     Bay, etc.
 
-    You'll also get a better sale price when selling to a store that stocks that
-    specific component.
+    You'll also get a better sale price when selling to [a store that stocks that
+    specific component](./buying-components.md).

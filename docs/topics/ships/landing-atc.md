@@ -2,7 +2,7 @@
 title: How do I request landing clearance from ATC?
 ---
 
-{{version_check("3.23.0")}}
+{{version_check("3.23.1")}}
 
 ## Info
 
