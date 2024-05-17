@@ -51,13 +51,14 @@ heal damage, but does not include the advanced mode of the medgun.
 
 1. Press ++v++ to equip a medgun that is attached to your armour, or drag a
 medgun into your hand from inventory. You can also press ++5++ to cycle through
+gadgets until your medgun is equipped.
 
 1. Point the medgun at the target, and ++"RMB"++ to see a detailed read-out of
 the target's health and injuries. You can press ++b++ to point a medgun at
 yourself to get the same read-out and apply healing.
 
-1. Hold ++"LMB"++ to apply healing; as long as the trigger is pressed, the
-medgun will continue to heal.
+1. Hold ++"LMB"++ to heal damage; as long as the trigger is pressed, the
+medgun will continue to heal damage.
 
 ## Medbeds
 
@@ -79,8 +80,8 @@ BDL will start dropping.
 
 !!! info "Blood Drug Level"
     Using medguns & medpens will slightly increase your BDL (Blood Drug Level);
-    repeated use of medical drugs will steadily increase this level until it
-    your character passes out.
+    repeated use of medical drugs will steadily increase this level until your
+    character passes out.
 
     Your BDL will slowly reduce over time; you can speed up that process by
     lying in a medbed or applying a DetoxPen (Resurgera).
