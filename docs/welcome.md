@@ -2,13 +2,13 @@
 title: Welcome to Star Docs
 ---
 
-![WhiskoTangey](./images/welcome/whisko-wave.jpg){width=300 align=right}
+![WhiskoTangey](./images/welcome/whisko-wave.jpg){width=350 align=right}
 
 Hi! I'm WhiskoTangey, and I'm a volunteer guide for the game Star Citizen. This
-site was created after I found myself answering a lot of the same questions
-from new (and sometimes experienced) players again and again, because a lot of
-common tasks are not explained directly in the game; especially when those
-mechanics can change from one patch to the next.
+site was created after I found a lot of players asking lot of the same questions
+again and again - whether they were new or experienced - because a lot of common
+tasks are not explained directly in the game; especially when those mechanics
+can change from one patch to the next.
 
 I'm hoping to build a collection of short, straight-to-the-point guides for
 frequent questions about the game's mechanics, so that users don't have to skip

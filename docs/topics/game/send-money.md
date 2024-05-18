@@ -2,14 +2,15 @@
 title: How do I send money to other players?
 ---
 
+{{version_check("3.23.1")}}
+
 ## Info
 
 When running industrial missions, trading with other players or hiring them for
-rescues and transport, you may want to transfer aUEC directly to other players.
-You can do this all directly in your mobiGlass, though there is a 0.5% fee for
-transfers.
+rescues and transport, you may want to transfer aUEC directly. You can do this
+all in your mobiGlass wallet app, though there is a 0.5% fee for transfers.
 
-## Send Money
+## Sending Money
 
 1. Open your mobiGlass (++f1++) and select the Wallet app.
 

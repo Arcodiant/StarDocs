@@ -2,6 +2,8 @@
 title: How do I mute Proxy Comms?
 ---
 
+{{version_check("3.23.1")}}
+
 ## Info
 
 While walking around game spaces like spaceports, cities and stations, you can

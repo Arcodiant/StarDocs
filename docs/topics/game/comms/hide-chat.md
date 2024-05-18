@@ -2,6 +2,8 @@
 title: How do I hide chat?
 ---
 
+{{version_check("3.23.1")}}
+
 ## Hide Chat Entirely
 
 Press ++f12++ to hide or show the chat window. You won't see any messages in any
