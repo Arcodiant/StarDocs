@@ -20,7 +20,7 @@ Prox Comms and enjoy your game in (relative) silence.
 1. Click the `Connect to Audio Channel` toggle at the top of the app, or in the
 Manage Channel tab.
 
-![Manage Channel Tab](./images/manage-tab.jpg){width=300}
+![Manage Channel Tab](./images/manage-tab.jpg){width=600}
 
 !!! info
     There are also volume sliders in the Manage tab so you can reduce the volume
