@@ -10,4 +10,4 @@ def define_env(env):
         if packaging.version.parse(version) < packaging.version.parse("3.23.0"):
             return "!!! danger inline end \"Last Updated\"\n    Alpha "+version+"\n\n    Information on this page may be outdated."
         else:
-            return "!!! success inline end \"Last Updated\"\n    Alpha "+version
+            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/comm-link/Patch-Notes/19974-Star-Citizen-Alpha-3231)"
