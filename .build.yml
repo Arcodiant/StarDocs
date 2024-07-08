@@ -19,7 +19,7 @@ jobs:
     submodules: true
   - bash: |
         pip install -r requirements.txt
-        npm install markdownlint-cli
+        sudo npm install -g markdownlint-cli
         markdownlint ./docs/
         mkdocs build
 - job: build_and_deploy_job
