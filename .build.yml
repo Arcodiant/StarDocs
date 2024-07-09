@@ -13,18 +13,21 @@ jobs:
 - job: build_for_pr
   displayName: Test Build for PR
   condition: eq(variables['Build.Reason'], 'PullRequest')
-  pool: Default
+  pool:
+    vmImage: ubuntu-latest
   steps:
   - checkout: self
     submodules: true
   - bash: |
         pip install -r requirements.txt
+        npm install -g markdownlint-cli
         markdownlint ./docs/
         mkdocs build
 - job: build_and_deploy_job
   displayName: Build and Deploy Job
   condition: or(eq(variables['Build.Reason'], 'Manual'),eq(variables['Build.Reason'], 'IndividualCI'))
-  pool: Default
+  pool:
+    vmImage: ubuntu-latest
   variables:
   - group: Azure-Static-Web-Apps-gentle-tree-0a8ea4f10-variable-group
   steps:
@@ -32,6 +35,7 @@ jobs:
     submodules: true
   - bash: |
         pip install -r requirements.txt
+        npm install -g markdownlint-cli
         markdownlint ./docs/
         mkdocs build
   - task: AzureStaticWebApp@0
