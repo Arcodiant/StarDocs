@@ -2,6 +2,8 @@
 title: How do I do delivery missions?
 ---
 
+{{version_check("3.24.1")}}
+
 ## Info
 
 One of the simplest missions in Star Citizen is a Delivery - collect one or
@@ -21,7 +23,7 @@ or specific equipment and are a great way to explore the 'verse.
 Each planetary system in Stanton is served by a different delivery company, and
 you will need to complete an evaluation mission with each of them before they
 offer you a full selection of delivery missions. As you build more reputation
-with a given company, they may off you larger or more risky missions.
+with a given company, they may offer you larger or more risky missions.
 
 If you fail several delivery missions with the same company, you will lose
 reputation and they may stop offering you work.
@@ -31,8 +33,9 @@ reputation and they may stop offering you work.
 You will also see Retrieval Ops available under the Delivery contracts section -
 these are a riskier version of delivery missions in which you must first extract
 the package from a derelict outpost or settlement, where you may encounter
-hostile NPCs. There are offered by the same company around Stanton - Northrock
-Service Group - and reputation is handled separately other delivery missions.
+hostile NPCs. There are offered by the same company wherever you are in Stanton
+\- Northrock Service Group - and reputation is handled separately from other
+delivery missions.
 
 The steps for completing a Retrieval Op are much the same as for Delivery
 missions, though be sure to take armour and a weapon - and don't stick around
@@ -42,7 +45,7 @@ attack your ship!
 ## Delivery Mission
 
 1. Open your Mobiglass (++f1++) and the Contracts app, select Delivery and
-accept a delivery mission or evaluation from the Delivery section.
+accept a delivery mission or evaluation.
 
     ![Delivery Contract](./images/delivery/contract.jpg){ width=600 }
 
@@ -85,11 +88,11 @@ kiosk.
 
     ![Pick-up from Kiosk](./images/delivery/pickup-kiosk.jpg){ width=600 }
 
-1. Take the package back to your ship and stow it. You can hold ++f++, face the
-package in your hands, then right-click to see options for putting it down. Drop
-will simply drop it at your feet, while Place will let you stow it neatly;
-position the blue highlighted hologram where you want the box to go, then click
-again to place.
+1. Take the package back to your ship and stow it. You can hold ++f++, look down
+at the package in your hands, then right-click to see options for putting it
+down. Drop will simply drop it at your feet, while Place will let you stow it
+neatly; position the blue highlighted hologram where you want the box to go,
+then click again to place.
 
     ![Stowed Package](./images/delivery/stowed.jpg){ width=600 }
 

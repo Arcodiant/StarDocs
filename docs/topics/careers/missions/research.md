@@ -2,7 +2,7 @@
 title: How do I do research missions?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("3.24.1")}}
 
 ## Info
 
@@ -28,10 +28,10 @@ the Galleria.
 1. Find the Admin office and collect the probe from the package terminal there,
 then take it back to your ship.
 
-> ***Note:*** If you had to travel a long distance to the pick-up point (e.g. an
-> L3/L4/L5 station) you may have used a significant amount of your ship's fuel.
-> Remember to [refuel](../../ships/refuel-repair.md) before leaving for the
-> drop-off.
+    > ***Note:*** If you had to travel a long distance to the pick-up point (e.g. an
+    > L3/L4/L5 station) you may have used a significant amount of your ship's fuel.
+    > Remember to [refuel](../../ships/refuel-repair.md) before leaving for the
+    > drop-off.
 
 1. Travel to the drop-off location for the probe. There will be a marker in your
 starmap (++f2++) for the location, which is typically in orbit of a planet or
