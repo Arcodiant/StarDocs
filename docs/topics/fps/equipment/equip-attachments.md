@@ -2,7 +2,7 @@
 title: How do I equip attachments to my weapons/tools?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
@@ -19,10 +19,10 @@ hands to modify attachments.
 
 > ***Note:*** In the Customise view, you will only have access to
 attachments in your character's personal inventory, e.g. stored in your
-core, leg or backpack inventory. Local or ship inventory is not accessible.
+core, leg or backpack inventory.
 
 1. Draw the weapon or tool to modify. Note that FPS weapons cannot be drawn in
-armistice, even in hangars, so you may need to travel away from cities or
+armistice, so you may need to travel to a hangar or away from cities or
 stations to do this.
 
 1. Press ++j++ to open the Customise view. You can also hold ++f++, then
@@ -45,7 +45,7 @@ available options. Click the attachment to use and it will equip.
 
 > ***Note:*** In the Loot HUD, you will only have access to
 attachments in your character's personal inventory, e.g. stored in your
-core, leg or backpack inventory. Local or ship inventory is not accessible.
+core, leg or backpack inventory.
 
 1. Hold ++i++ to open the Loot HUD.
 
@@ -78,7 +78,9 @@ remove it from the slot and store it in your personal inventory again.
 
 ## Via Inventory
 
-1. Press ++i++ to open the Inventory view.
+1. Access a Storage/Gear terminal to access local storage for your location,
+open an External Storage location on your ship or press ++i++ to open your 
+personal Inventory view.
 
     ![Inventory](
         ./images/equip-attachments/inventory.jpg){ width=600 }
@@ -93,3 +95,6 @@ remove it from the slot and store it in your personal inventory again.
 
     ![Inventory Drop](
         ./images/equip-attachments/inventory-drop.jpg){ width=600 }
+
+    > ***Note:*** You can also double-click an attachment in an inventory panel to
+    attach it to the first available, compatible slot.

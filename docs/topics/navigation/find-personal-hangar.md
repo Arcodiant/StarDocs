@@ -12,7 +12,7 @@ ships, vehicles, furniture, cargo, equipment or any other physical items in the
 hangar, they will be persisted and stay in the hangar for when you next go
 there.
 
-All other hangar are Public hangars (even at your Home City) which are not
+All other hangars are Public hangars (even at your Home City) which are not
 persisted, and items left in non-peristent hangars may despawn when you leave.
 
 ??? info "Personal Hangar Size"

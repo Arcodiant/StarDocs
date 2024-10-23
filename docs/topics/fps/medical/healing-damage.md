@@ -2,13 +2,13 @@
 title: How do I heal damage?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
 A player's health is tracked as a simple 0-100% stat; at 100% the player is
 uninjured, and at 0% the player is incapacitated, cannot act and will slowly
-bleed out. As soon as a incapped player is healed above 0%, they will wake up
+bleed out. As soon as an incapped player is healed above 0%, they will wake up
 and can start moving again.
 
 There are many ways to take damage, from combat damage like being shot, to
