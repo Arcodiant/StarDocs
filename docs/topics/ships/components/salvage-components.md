@@ -2,7 +2,7 @@
 title: How do I remove components from ships I find?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
@@ -24,9 +24,9 @@ This includes ships that you destroy as part of Bounties or other missions!
     not have their internal components made accessible yet.
 
 1. You will need a
-[ship or shipwreck](../../careers/industrial/salvage/find-ships.md) to remove the
-components from, and a [tractor beam](../../fps/equipment/tractor-beam.md). If
-possible, move the ship to a safe location where you can use a tractor beam.
+[ship or shipwreck](../../careers/industrial/salvage/find-ships.md) to remove
+the components from, and a [tractor beam](../../fps/equipment/tractor-beam.md).
+If possible, move the ship to a safe location where you can use a tractor beam.
 
     > ***Note:*** You typically can't use tractor beams in an armistice area,
     but this restriction is lifted in hangars and on landing pads.
@@ -39,24 +39,25 @@ possible, move the ship to a safe location where you can use a tractor beam.
 
     ![Ship Ports Unlocked](./images/salvage-ports-unlocked.jpg){width=600}
 
-3. Find the component or weapon on the ship, equip your tractor beam (++5++) and
-switch it to Detaching/Detachment (++b++).
+3. Find the component or weapon on the ship and equip your tractor beam (++5++).
 
     ![Tractor Beam - Detach Mode](
         ./images/salvage-tractor-detach.jpg){width=600}
 
 4. Detach the component with the tractor beam:
-    - Point the tool at the component & enable the beam (++"LMB"++).
+    - Point the tool at the component & enable the beam in Detachment mode
+    (++"RMB"++).
     - Drag the component with the mouse in the direction indicated by the arrow
-    until it comes loose. The scroll wheel can be used to pull or push a
-    component.
+    until it comes loose. ++alt+"Scroll Wheel"++ can be used to pull or
+    push a component.
 
     ![Component Highlighted](
         ./images/salvage-component-highlight.jpg){width=300}
     ![Component Detaching](./images/salvage-component-detach.jpg){width=300}
 
-5. The component is now detached and can be physically stowed in your ship to
-sell, or attached to an empty slot on another ship.
+5. The component is now detached and can be physically stowed in your ship,
+stored via a Freight Elevator to sell, or attached to an empty slot on another
+ship.
 
 ??? tip "Where to sell"
 

@@ -2,7 +2,7 @@
 title: How do I upgrade or modify my ship?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
@@ -22,6 +22,10 @@ Bay, Ship Weapons Shops or other stories, or by
     drives will fit (such as the Atlas or VK-00). You can find out what slots
     are available on your ship, the components that will fit, and where to
     purchase them at [Erkul.games](https://erkul.games).
+
+    In some specific cases, a slot will accept a component that is one size
+    smaller - typically this is for weapon slots, where e.g. a size 2 weapon
+    slot will accept either a size 1 or a size 2 weapon.
 
 There are two ways to install new weapons & components on your ship, depending
 on if they are [in your inventory](#using-your-mobiglass) or
@@ -75,10 +79,10 @@ stored at this location).
 
 ??? tip "Insurance"
 
-    Once you equip a new component in the Vehicle Loadout Manager, it becomes
-    part of the insured setup for your ship. If you claim a replacement for your
-    ship in future, it will include any components that you installed at no
-    extra cost.
+    Once you equip and save a new component in the Vehicle Loadout Manager, it
+    becomes part of the insured setup for your ship. If you claim a replacement
+    for your ship in future, it will include any components that you installed
+    at no extra cost.
 
 ## Using a tractor beam
 
@@ -88,6 +92,9 @@ stored at this location).
 1. Move your ship and the physicalised component to a safe location where you
 can use a [tractor tool](../../fps/equipment/tractor-beam.md).
 
+    Components in your local inventory can be retrieved via the Freight
+    Elevators in your hangar.
+
     > ***Note:*** You typically can't use tractor beams in an armistice area,
     but this restriction is lifted in hangars and on landing pads.
 
@@ -95,11 +102,11 @@ can use a [tractor tool](../../fps/equipment/tractor-beam.md).
 vital component (e.g. a cooler or power plant) be sure to power off (++u++) your
 ship to avoid damage.
 
-3. Find the component slot on your ship, equip your tractor beam (++5++) and
-switch it to Detaching/Detachment (++b++).
+3. Find the component slot on your ship and equip your tractor beam (++5++).
 
 4. If there is already a component in the slot, detach it with the tractor beam:
-    - Point the tool at the component & enable the beam (++"LMB"++).
+    - Point the tool at the component & enable the beam in Detachment mode
+    (++"RMB"++).
     - Pull the component in the direction indicated by the arrow until it comes
     loose.
 

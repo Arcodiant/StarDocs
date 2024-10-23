@@ -2,7 +2,7 @@
 title: Can I sell ships?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 Currently, it's not possible to sell ships that are in your hangar, whether you
 purchased them via the pledge store or in-game. However, if you find an

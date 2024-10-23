@@ -2,7 +2,7 @@
 title: How do I change the text colour of chat?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 1. Open the Comms app (++f11++) & click the channel to modify.
 

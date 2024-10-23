@@ -2,7 +2,7 @@
 title: Where can I buy ships in-game?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
@@ -11,8 +11,9 @@ or more specialised ships, or that support multi-crew or new gameplay loops.
 
 With few exceptions, all ships that have been released can be purchased in-game
 by earning aUEC and buying them at ship dealers around the Stanton system.
-During Alpha, your purchase also includes lifetime insurance so even if your
-ship is destroyed, you will always be able to replace it.
+During Alpha, your purchase also includes lifetime insurance and a warranty, so
+even if your ship is destroyed you will always be able to replace it and its
+components.
 
 ??? info "Ship Availability"
     While the majority of ships are available purchase with in-game currency,
@@ -22,8 +23,8 @@ ship is destroyed, you will always be able to replace it.
     two major patches or six months have passed since they were added.
 
     - Limited Releases: Ships like the Sabre Raven and Mustang Omega were only
-    available as special offers with hardware deals, like Intel SSDs, and will
-    never be available in-game.
+    available as special offers with hardware deals, like certain Intel SSDs,
+    and will never be available to buy in-game.
 
     - Unlocks: Some ships, like the F8C, will only be available in-game when the
     single-player Squadron 42 game releases, and can be unlocked for purchase as
@@ -54,7 +55,7 @@ There are three locations in the Stanton system that sell ships:
 === "Astro Armada: Area 18, ArcCorp"
 
     Astro Armada has less options than New Deal and no showroom floor, but it
-    does sell some specialist brands including different the alien ships
+    does sell some specialist brands including the different alien ships
     available in-game.
 
 === "Crusader Showroom: Orison, Crusader"
@@ -66,6 +67,8 @@ There are three locations in the Stanton system that sell ships:
 
 A full listing of ships available at each location and their prices is
 available on [Star Citizen Wiki](https://starcitizen.tools/Purchasing_ships).
+
+At each dealer, there are two ways to purchase ships:
 
 ### From the Terminal
 

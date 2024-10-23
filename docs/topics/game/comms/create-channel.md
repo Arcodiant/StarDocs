@@ -2,7 +2,7 @@
 title: How do I create a private chat channel?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 1. Open the Comms app (++f11++), select Channels & click the plus icon in the
 top left.

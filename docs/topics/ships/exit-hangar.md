@@ -2,17 +2,17 @@
 title: How do I exit my hangar?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
-When you retrieve a ship to a Public hangar at a space station or spaceport,
-the hangar doors remain closed so that you can prepare your ship, load cargo
-etc. without interference from other players. Once you are ready to leave, you
-will need to signal ATC for launch permission.
+When you retrieve a ship to a Personal or Public hangar at a space station or
+spaceport, the hangar doors remain closed so that you can prepare your ship,
+load cargo etc. without interference from other players. Once you are ready to
+leave, you will need to signal ATC for launch permission.
 
 <!-- markdownlint-disable-next-line MD013 -->
-!!! note "If you are on an open pad (such as when retrieving ground vehicles from a Platinum Bay location) you can freely drive off the pad without contacting ATC."
+!!! note "If you are on an open pad (such as when retrieving ground vehicles from a Platinum Bay location) you can freely launch from/drive off the pad without contacting ATC."
 
 <!-- markdownlint-disable-next-line MD013 -->
 !!! info "You are generally only able to request launch permission for a ship that you own; if you are loaning a ship from another player or party member, it is easiest to have them request launch permission then swap seats."
@@ -21,7 +21,7 @@ will need to signal ATC for launch permission.
 
 1. Sit in the pilot seat of your ship.
 
-2. Contact ATC
+1. Contact ATC
 
     === "Using Keybind"
 
@@ -53,4 +53,12 @@ will need to signal ATC for launch permission.
             
         - Click the Open Channel icon on the right-hand side.
 
-3. Wait for the hangar doors to open and take off.
+1. If there is a queue of players waiting to launch/land, you may see a Queueing
+notification with your position in the queue and a max wait time. Note that this
+is a *Maximum* wait time, and you should reach the front of the queue much
+quicker than this.
+
+1. When it is your turn to launch, you will see a notification reading
+"Gateway Granted" and the hangar doors will begin to open.
+
+1. Wait for the hangar doors to open and take off.

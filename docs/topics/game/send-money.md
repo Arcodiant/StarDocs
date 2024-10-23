@@ -2,7 +2,7 @@
 title: How do I send money to other players?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
