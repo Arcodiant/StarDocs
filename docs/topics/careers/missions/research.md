@@ -2,12 +2,12 @@
 title: How do I do research missions?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
 A simple mission for new players, research missions involve collecting a
-scientific probe from stations admins and deploying it in orbit of a moon or
+scientific probe from station admins and deploying it in orbit of a moon or
 planet. They pay a small amount but can be completed quickly and don't require
 specialist equipment; they do involve EVA though so you'll want an airtight
 flightsuit or armour.

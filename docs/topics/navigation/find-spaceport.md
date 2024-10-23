@@ -2,7 +2,7 @@
 title: How do I find the spaceport at each city?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 

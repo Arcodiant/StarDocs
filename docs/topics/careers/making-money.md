@@ -2,7 +2,7 @@
 title: How do I make money?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Missions
 
@@ -17,6 +17,11 @@ way to explore different locations around the 'verse.
 Research Missions are a variant on delivery missions, and involve collecting
 survey & scanning equipment and delivering it to orbital locations around the
 'verse.
+
+### [Cargo Hauling](./missions/hauling.md)
+
+
+
 <!--
 ## Combat
 

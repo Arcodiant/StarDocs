@@ -2,7 +2,7 @@
 title: How do I set my respawn point?
 ---
 
-{{version_check("3.24.1")}}
+{{version_check("3.24.2")}}
 
 ## Info
 
@@ -12,8 +12,8 @@ location.
 
 By default, this will be the hospital of the Home City that you selected when
 you first joined the Persistent Universe. However, you can move this respawn
-point to any clinic or hospital in the 'verse, including at stations or on
-ships or vehicles with medbeds.
+point to any clinic or hospital in the 'verse, including at space stations, or
+on ships or vehicles with medbeds.
 
 !!! tip
     While cities have more facilities than orbital or lagrange stations, they
@@ -75,3 +75,6 @@ reset it.
 
     If either of these limitations is not met, the player with default back to
     respawning at their home city.
+
+    It is also not currently possible to respawn in a vehicle that is in your
+    [personal hangar]().

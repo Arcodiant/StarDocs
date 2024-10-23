@@ -1,4 +1,7 @@
 from pkg_resources import packaging
+import logging
+
+log = logging.getLogger("mkdocs.starDocs")
 
 def define_env(env):
     """
@@ -7,7 +10,8 @@ def define_env(env):
 
     @env.macro
     def version_check(version):
-        if packaging.version.parse(version) < packaging.version.parse("3.24.1"):
+        if packaging.version.parse(version) < packaging.version.parse("3.24.2"):
+            log.warning("Doc file '"+env.page.file.src_uri+"' failed version check with " + version)
             return "!!! danger inline end \"Last Updated\"\n    Alpha "+version+"\n\n    Information on this page may be outdated."
         else:
-            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/comm-link/transmission/19985-Alpha-324-Cargo-Empires)"
+            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/comm-link/Patch-Notes/20255-Star-Citizen-Alpha-3242)"
