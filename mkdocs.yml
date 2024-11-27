@@ -45,7 +45,7 @@ markdown_extensions:
       alternate_style: true
 
 extra:
-  current_version: 3.24.1
+  current_version: 3.24.3
   consent:
     actions:
       - accept

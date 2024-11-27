@@ -2,7 +2,7 @@
 title: How do I do delivery missions?
 ---
 
-{{version_check("3.24.2")}}
+{{version_check("3.24.3")}}
 
 ## Info
 
