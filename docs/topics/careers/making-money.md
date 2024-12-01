@@ -18,11 +18,11 @@ Research Missions are a variant on delivery missions, and involve collecting
 survey & scanning equipment and delivering it to orbital locations around the
 'verse.
 
+<!--
 ### [Cargo Hauling](./missions/hauling.md)
 
 
 
-<!--
 ## Combat
 
 ### [NPC Ship Bounties](./missions/ship-bounties.md)
