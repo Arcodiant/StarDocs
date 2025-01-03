@@ -2,14 +2,24 @@
 {% block scripts %}
 {{ super() }}
 <script type="text/javascript">
-  var consent = __md_get("__consent")
+  var consent = __md_get("__consent");
 
-  if (consent && consent.analytics) {
-    (function (c, l, a, r, i, t, y) {
-      c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
-      t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
-      y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
-    })(window, document, "clarity", "script", "lnhf3kojax");
+  (function (c, l, a, r, i, t, y) {
+  c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+  t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+  y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "lnhf3kojax");
+
+  if (consent) {
+    window.clarity('consent', Boolean(consent.analytics));
   }
+
+  var action, form = document.forms.consent;
+  for (action of ["submit", "reset"])
+    form.addEventListener(action, function (e)
+      {
+        var analyticsConsent = Boolean(Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]})).analytics);
+        window.clarity('consent', analyticsConsent);
+      })
 </script>
 {% endblock %}
