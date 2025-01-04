@@ -26,9 +26,9 @@ theme:
 
 plugins:
   - search
+  - awesome-pages
   - glightbox
   - macros
-  - awesome-pages
 
 markdown_extensions:
   - abbr
