@@ -28,6 +28,7 @@ plugins:
   - search
   - glightbox
   - macros
+  - awesome-pages
 
 markdown_extensions:
   - abbr
