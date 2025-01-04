@@ -24,7 +24,7 @@ This includes ships that you destroy as part of Bounties or other missions!
     not have their internal components made accessible yet.
 
 1. You will need a
-[ship or shipwreck](../../careers/industrial/salvage/find-ships.md) to remove
+[ship or shipwreck](../find-ships.md) to remove
 the components from, and a [tractor beam](../../fps/equipment/tractor-beam.md).
 If possible, move the ship to a safe location where you can use a tractor beam.
 
