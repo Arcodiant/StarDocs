@@ -2,7 +2,7 @@
 title: Where can I rent ships in-game?
 ---
 
-{{version_check("3.24.3")}}
+{{version_check("4.0")}}
 
 ## Info
 

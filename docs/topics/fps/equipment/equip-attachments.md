@@ -2,7 +2,7 @@
 title: How do I equip attachments to my weapons/tools?
 ---
 
-{{version_check("3.24.3")}}
+{{version_check("4.0")}}
 
 ## Info
 

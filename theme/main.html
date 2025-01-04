@@ -1,4 +1,8 @@
 {% extends "base.html" %}
+{% block extrahead %}
+{{ super() }}
+  <meta property="og:site_name" content="Star Docs" />
+{% endblock %}
 {% block scripts %}
 {{ super() }}
 <script type="text/javascript">
