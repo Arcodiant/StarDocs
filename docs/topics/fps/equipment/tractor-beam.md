@@ -33,9 +33,17 @@ The most reliable is at stores on Cargo and Refinery decks at city, jump point
 & L-point stations; there are also city stores like Tammany & Sons in Lorville
 and the Covalex store on Providence platform, Orison.
 
+![Cargo Deck Store](./images/tractor-beam/cargo-deck.jpg)
+
 Additionally, multitools and attachments can be bought at large derelict
 outposts like Maker's Point, Rappel, Astor's Clearing, Dunboro and others,
 plus some equipment stores like Cubby Blast or Providence Surplus.
+
+At the store terminals, tractor beams and their attachments can be found under the Personal Weapons category.
+
+![Personal Weapons Category](./images/tractor-beam/store-terminal-category.jpg)
+![Tractor Beams in Store Terminal](./images/tractor-beam/store-terminal.jpg)
+
 
 ## Looting
 
