@@ -2,7 +2,7 @@
 title: How do I get my ship back if it is lost or destroyed?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 

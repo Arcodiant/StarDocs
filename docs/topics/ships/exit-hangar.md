@@ -2,7 +2,7 @@
 title: How do I exit my hangar?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 
