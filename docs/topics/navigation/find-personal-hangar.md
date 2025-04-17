@@ -2,7 +2,7 @@
 title: How do I find my Personal Hangar?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 
@@ -35,7 +35,7 @@ terminals).
 1. Head directly to the Hangar Elevators, call an elevator and check the
 elevator destination panel.
 
-    ![New Babbage from above](./images/elevator-personal-hangar.jpg){width=700}
+    ![Personal hangar](./images/elevator-personal-hangar.jpg){width=700}
 
     You should see an option for your Personal Hangar on the list.
 

@@ -2,7 +2,7 @@
 title: How do I remove components from ships I find?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 

@@ -1,8 +1,8 @@
 ---
-title: How do I mute Proxy Comms?
+title: How do I mute Proximity Comms?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 

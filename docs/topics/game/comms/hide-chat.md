@@ -2,7 +2,7 @@
 title: How do I hide chat?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Hide Chat Entirely
 

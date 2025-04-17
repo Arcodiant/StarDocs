@@ -2,7 +2,7 @@
 title: How do I create a private chat channel?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 
@@ -29,3 +29,6 @@ top left.
 or in the Members list of another channel, then selecting Add to Channel.
 
     ![Add Player to Channel](./images/create-channel/add-player.jpg){width=700}
+
+1. You can send messages in the private channel by pressing ++enter++ in FPS
+view then pressing ++tab++ until the private channel is selected

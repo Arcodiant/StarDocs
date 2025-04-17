@@ -2,7 +2,7 @@
 title: How do I do hauling missions?
 ---
 
-{{version_check("3.24.3")}}
+{{version_check("4.1")}}
 
 ## Info
 

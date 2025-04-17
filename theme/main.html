@@ -2,6 +2,14 @@
 {% block extrahead %}
 {{ super() }}
   <meta property="og:site_name" content="Star Docs" />
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  {% if page and page.meta and page.meta.title %}
+    <meta property="og:title" content="{{ page.meta.title }}">
+  {% elif page and page.title and not page.is_homepage %}
+    <meta property="og:title" content="{{ page.title }} - {{ config.site_name }}">
+  {% else %}
+    <meta property="og:title" content="{{ config.site_name }}">
+  {% endif %}
 {% endblock %}
 {% block scripts %}
 {{ super() }}

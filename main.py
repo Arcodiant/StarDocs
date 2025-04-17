@@ -14,4 +14,4 @@ def define_env(env):
             log.warning("Doc file '"+env.page.file.src_uri+"' failed version check with " + version)
             return "!!! danger inline end \"Last Updated\"\n    Alpha "+version+"\n\n    Information on this page may be outdated."
         else:
-            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/comm-link/Patch-Notes/20360-Star-Citizen-Alpha-40)"
+            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/en/comm-link/Patch-Notes/20522-Star-Citizen-Alpha-41)"

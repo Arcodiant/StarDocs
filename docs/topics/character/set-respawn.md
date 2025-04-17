@@ -2,7 +2,7 @@
 title: How do I set my respawn point?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 
@@ -77,4 +77,4 @@ reset it.
     respawning at their home city.
 
     It is also not currently possible to respawn in a vehicle that is in your
-    [personal hangar]().
+    [personal hangar](../navigation/find-personal-hangar.md).

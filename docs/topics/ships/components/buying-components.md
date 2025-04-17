@@ -2,7 +2,7 @@
 title: Where can I buy upgrades?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 

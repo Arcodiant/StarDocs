@@ -2,7 +2,7 @@
 title: Where can I get a tractor beam tool?
 ---
 
-{{version_check("4.0")}}
+{{version_check("4.1")}}
 
 ## Info
 
