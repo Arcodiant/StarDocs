@@ -15,7 +15,7 @@ the cargo is also marked as "contracted" so you can't take it to a trade console
 and sell it yourself - at least, not any legal ones.
 
 !!! info "Requirements"
-    #### Ship
+    ### Ship
     You'll need a ship capable of carrying the cargo; starter ships typically
     carry 3-4 SCU (Standard Cargo Units), while the entry-level hauling missions
     will require you to carry 7-10 SCU. You can see the cargo capacity of your
@@ -28,7 +28,7 @@ and sell it yourself - at least, not any legal ones.
     have [rental locations](../../ships/rent-ships.md) where you can pick up a
     dedicated cargo hauler for less than the payout of a single hauling mission.
 
-    #### Tractor Beam
+    ### Tractor Beam
 
     The cargo containers are too large to be carried by hand, and you'll need a
     [tractor beam](../../fps/equipment/tractor-beam.md) to lift, carry and stow
@@ -63,6 +63,17 @@ accept a hauling mission or evaluation.
 elevator. At cities & space stations, these are inside your hangar:
 
     ![Freight Elevator](./images/hauling/freight-elevator.jpg)
+
+    At distribution centres, they are attached to the landing pads on either
+    side wing of the main building, or inside the hangars:
+
+    ![Distribution Centre](./images/hauling/distro-centre.jpg)
+    ![Distribution Centre Pad](./images/hauling/distro-centre-close.jpg)
+
+    At ground stations, they are attached to the open landing pads:
+
+    ![Ground Station](./images/hauling/ground-station.jpg)
+    ![Ground Station Elevator](./images/hauling/ground-station-close.jpg)
 
 1. Access the terminal.
 

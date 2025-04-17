@@ -10,8 +10,8 @@ def define_env(env):
 
     @env.macro
     def version_check(version):
-        if packaging.version.parse(version) < packaging.version.parse("4.0.0"):
+        if packaging.version.parse(version) < packaging.version.parse("4.1.0"):
             log.warning("Doc file '"+env.page.file.src_uri+"' failed version check with " + version)
             return "!!! danger inline end \"Last Updated\"\n    Alpha "+version+"\n\n    Information on this page may be outdated."
         else:
-            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+" Preview](https://robertsspaceindustries.com/comm-link/Patch-Notes/20360-Star-Citizen-Alpha-40)"
+            return "!!! success inline end \"Last Updated\"\n    [Alpha "+version+"](https://robertsspaceindustries.com/comm-link/Patch-Notes/20360-Star-Citizen-Alpha-40)"
