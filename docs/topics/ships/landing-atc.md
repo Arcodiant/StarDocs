@@ -2,7 +2,7 @@
 title: How do I request landing clearance from ATC?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("4.1")}}
 
 ## Info
 
@@ -65,14 +65,16 @@ the local ATC (e.g. "NBIS Spaceport") shows on your Comms MFD.
 receive a negative response if no hangars are available, or a short chirp if
 ATC is overloaded.
 
-1. An icon will appear on your HUD showing the location of your hangar. The
-icon is a circle with a downward-pointing chevron.
+1. If there are a large number of players landing or taking off, you may be
+added to a queue; the notification will show the number of players in the queue,
+along with a max wait time.
 
-1. Fly to the marker and park your ship.
+    ![Notification](./images/landing-atc/notification.jpg)
 
-!!! attention "Cancelling Permission"
+1. An icon will appear on your HUD showing the location of your hangar. It will
+be marked with the name of your hangar, e.g. 'WhiskoTangey's Small Hangar'
 
-    Flying a distance away from the landing area, or contacting ATC more than
-    once can cancel your landing permission, so be careful of accidentally
-    pressing the keybind more than once and having the hangar doors close on
-    you.
+    ![Marker](./images/landing-atc/marker.jpg)
+
+1. Fly to the marker and land your ship. You will only have 100 seconds before
+landing permission is revoked, so don't hang around!
