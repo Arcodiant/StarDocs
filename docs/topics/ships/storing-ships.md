@@ -2,14 +2,14 @@
 title: How do I store my ship?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("4.1")}}
 
 ## Info
 
 Ships and vehicles can be stored at any location that has ASOP terminals and
 large enough hangars or pads to accomodate them.
 
-Storing a ship perists the entire ship (including inventory, vehicles stowed
+Storing a ship persists the entire ship (including inventory, vehicles stowed
 onboard and any physical items) safely until the next time you retrieve it; you
 should always store your ship before logging off.
 
@@ -34,24 +34,22 @@ issued to you by [ATC](./landing-atc.md).
     your ship and are intended for making repairs, refuelling and quick
     passenger pickups.
 
-2. Make sure that you ship is fully powered down (++u++).
+1. Make sure that your ship is fully powered down (++u++).
 
     ![Powered down](./images/storing-power-down.jpg){width=600}
 
-3. Take the elevator from the hangar/pad/port to the Lobby.
+1. Either find an ASOP terminal in your hangar, or take the elevator back to the
+lobby and use a terminal there.
 
     ![Hangar Elevator](./images/storing-elevator.jpg){width=300}
     ![Elevator Panel](./images/storing-elevator-panel.jpg){width=300}
-
-4. Use an ASOP terminal and find your ship in the list.
-
     ![ASOP Terminal](./images/storing-asop.jpg){width=600}
 
-5. If parked in the correct location, the terminal will show the name and a
+1. If parked in the correct location, the terminal will show the name and a
 Store option.
 
     ![ASOP Selecting ship](./images/storing-select.jpg){width=600}
 
-6. Click Store and wait until the screen shows Stored.
+1. Click Store and wait until the screen shows Stored.
 
     ![ASOP Ship stored](./images/storing-stored.jpg){width=600}

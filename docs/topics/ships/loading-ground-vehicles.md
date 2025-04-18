@@ -2,7 +2,7 @@
 title: How do I load ground vehicles onto my ship?
 ---
 
-{{version_check("3.23.1")}}
+{{version_check("4.1")}}
 
 ## Info
 
@@ -10,17 +10,8 @@ Many ships have cargo holds large enough to hold ground vehicles and even
 smaller spacecraft; some, like the Starlifter series, are purpose-built to
 carry & deliver ground vehicles.
 
-However, the hangars designed for retrieving ships are in different locations
-than the garages or pad for ground vehicles. Some cities have dedicated
-facilities for storing and retrieving ground vehicles, while Platinum Bay
-operate a series of vehicle pads at ground stations around the system.
-
-!!! info "Changes coming in 3.23.*x*"
-
-    The Personal Hangars that are coming in a future 3.23.*x* patch will make
-    the process of calling & loading vehicles much easier, as you will be able
-    to retrieve the ground vehicle, then retrieve the carrier into the same
-    hangar. This guide explains the process as of patch Alpha 3.23.0.
+The easiest option to load vehicles is from your hangar, but you can also travel
+to a dedicated ground garages to load
 
 You'll need to own or rent a ground vehicle, and own or rent a ship large
 enough to carry it. You can check the
@@ -29,6 +20,32 @@ to see what can will fit. As a starter, you can rent a Cutlass Black fairly
 cheaply from refinery decks, and also the Greycat ROC mining buggy from the
 same location - or pick up a Greycat STV from Astro Armada in Area 18, which is
 a cheap, small but versatile two-seater buggy.
+
+## Load in your hangar
+
+1. Travel to a hangar large enough to hold your carrier ship; this can be your
+personal hangar, or you can access a public hangar by calling your ship from the
+lobby.
+
+    > ***Note:*** If you get a hangar allocated by calling your ship, you'll
+    then need to store it when you get to the hangar.
+
+1. Call your ground vehicle from the hangar ASOP terminal.
+
+    ![Hangar ASOP](./images/loading-ground-vehicles/hangar-asop.jpg){width=600}
+
+1. Move the vehicle off the hangar pad, and into a spare space at the side.
+
+    ![Stowed](./images/loading-ground-vehicles/hangar-stowed.jpg){width=600}
+
+1. Retrieve your ship and ready it.
+
+    ![Ship](./images/loading-ground-vehicles/hangar-ship.jpg){width=600}
+
+1. Drive the vehicle onto your ship.
+
+    ![Loaded](./images/loading-ground-vehicles/hangar-loaded.jpg){width=300}
+    ![Ready](./images/loading-ground-vehicles/hangar-ready.jpg){width=300}
 
 ## Load from ground garages
 
